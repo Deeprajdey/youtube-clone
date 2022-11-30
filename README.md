@@ -1,8 +1,7 @@
 ## Screenshots
 
 ![Screenshot-1](https://i.ibb.co/MPnw9dW/img1.png "scrsht-1")
-![Screenshot-2](https://i.ibb.co/mHxXjzK/img2.png "scrsht-2")
-![Screenshot-3](https://i.ibb.co/5MX11Fd/img3.png "scrsht-3")
+![Screenshot-2](https://i.ibb.co/5MX11Fd/img3.png "scrsht-2")
 
 # Getting Started with Create React App
 
